@@ -1,4 +1,4 @@
-import pandas as pd
+fimport pandas as pd
 import joblib
 from sklearn.metrics import accuracy_score
 
