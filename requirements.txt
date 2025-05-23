@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+joblib
+geocoder
+requests
+mediapipe
+opencv-python
